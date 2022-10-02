@@ -4,7 +4,7 @@
 
 ### Purpose
 
-* Show the best month to launch a fundraising for the parent category Theater.
+* Show the best month to launch a fundraising for the parent category "Theater".
 
 * Know the objective to set for the next fundraising of the sub-category "Plays".
 
@@ -23,9 +23,9 @@ According to our analysis, Louise is more likely to achieve her goals when the a
 
 ### Challenges and Difficulties Encountered
 
-1. Difficulties about how to use the formula "COUNTIFS"
+- Difficulties about how to use the formula "COUNTIFS"
     
-    - To solve this issue, I watched a tip video in the link below
+    - To solve this issue, I watched a tip video in the following link
     [COUNTIFS Functions](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us)
 
 
@@ -46,5 +46,17 @@ According to our analysis, Louise is more likely to achieve her goals when the a
 - What are some limitations of this dataset?
 
 
+    * There is a limitation of the database because Louise did not consider all the campaigns in the "Theater" category. A more in-depth analysis of the "Spaces" and "Musical" subcategories will give us more information about the best campaign and the decisions to be made for more success for future fundraisers.
+
 
 - What are some other possible tables and/or graphs that we could create?
+
+
+    1. **Bar Chart**
+
+        A bar chart could be use to compare categorize data for one data set, or to compare categorized data across multiple data sets.
+
+
+    2. **Clustered Column Chart**
+
+        Column charts are a good way to show change over time because it's easy to compare column lengths
